@@ -6,4 +6,6 @@ This is a mobile responsive web page created from a PDF mockup. Project was buil
 View live version of the webpage [here]
 (https://cdn.rawgit.com/anavasquez84/udacity-p1/master/project-1/index.html)
 
+-To explore mobile features view project on a mobile device or using Google Developer tools. 
+
 
